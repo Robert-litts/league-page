@@ -3352,7 +3352,7 @@ div.desc {
     <a target="_blank" href="img_5terre.jpg">
       <img src="/awards/champion.png" alt="Cinque Terre" width="600" height="400">
     </a>
-    <div class="desc">aron  Hernancuffs</div>
+    <div class="desc">Aaron  Hernancuffs</div>
   </div>
 </div>
 
@@ -3481,9 +3481,6 @@ div.desc {
   </div>
 </div>
 <div class="clearfix"></div>
-<div style="padding:6px;">
-  <p>Back to back champs...the league is rigged.</p>
-</div>
 </body>
   
   
@@ -3524,9 +3521,6 @@ div.desc {
   </div>
 </div>
 <div class="clearfix"></div>
-<div style="padding:6px;">
-  <p>Back to back champs...the league is rigged.</p>
-</div>
 </body>
   
   
@@ -3568,9 +3562,6 @@ div.desc {
   </div>
 </div>
 <div class="clearfix"></div>
-<div style="padding:6px;">
-  <p>Back to back champs...the league is rigged.</p>
-</div>
 </body>
   
   
@@ -3583,7 +3574,7 @@ div.desc {
     <a target="_blank" href="img_5terre.jpg">
       <img src="/awards/champion.png" alt="Cinque Terre" width="600" height="400">
     </a>
-    <div class="desc">Aaron  Hernancuffs</div>
+    <div class="desc">Alvin K Chasing The Chips</div>
   </div>
 </div>
 <div class="responsive">
@@ -3591,7 +3582,7 @@ div.desc {
     <a target="_blank" href="img_forest.jpg">
       <img src="/awards/second.png" alt="Forest" width="600" height="400">
     </a>
-    <div class="desc">Michael Sam's Butt Rams</div>
+    <div class="desc">Gronkey Kong</div>
   </div>
 </div>
 <div class="responsive">
@@ -3599,7 +3590,7 @@ div.desc {
     <a target="_blank" href="img_lights.jpg">
       <img src="/awards/third.png" alt="Northern Lights" width="600" height="400">
     </a>
-    <div class="desc">Cheese Churning Chucker</div>
+    <div class="desc">Palmer in the Brown</div>
   </div>
 </div>
 <div class="responsive">
@@ -3607,13 +3598,10 @@ div.desc {
     <a target="_blank" href="img_mountains.jpg">
       <img src="/awards/toilet.png" alt="Mountains" width="600" height="400">
     </a>
-    <div class="desc">League Of Negro FootBallists</div>
+    <div class="desc">Mr. Tooch</div>
   </div>
 </div>
 <div class="clearfix"></div>
-<div style="padding:6px;">
-  <p>Back to back champs...the league is rigged.</p>
-</div>
 </body>
   
   
@@ -3626,7 +3614,7 @@ div.desc {
     <a target="_blank" href="img_5terre.jpg">
       <img src="/awards/champion.png" alt="Cinque Terre" width="600" height="400">
     </a>
-    <div class="desc">Aaron  Hernancuffs</div>
+    <div class="desc">The Lord Is My Shepard</div>
   </div>
 </div>
 <div class="responsive">
@@ -3634,7 +3622,7 @@ div.desc {
     <a target="_blank" href="img_forest.jpg">
       <img src="/awards/second.png" alt="Forest" width="600" height="400">
     </a>
-    <div class="desc">Michael Sam's Butt Rams</div>
+    <div class="desc">Alvin K Chasing The Chips</div>
   </div>
 </div>
 <div class="responsive">
@@ -3642,7 +3630,7 @@ div.desc {
     <a target="_blank" href="img_lights.jpg">
       <img src="/awards/third.png" alt="Northern Lights" width="600" height="400">
     </a>
-    <div class="desc">Cheese Churning Chucker</div>
+    <div class="desc">Most Innocent, Perfect Team</div>
   </div>
 </div>
 <div class="responsive">
@@ -3650,7 +3638,7 @@ div.desc {
     <a target="_blank" href="img_mountains.jpg">
       <img src="/awards/toilet.png" alt="Mountains" width="600" height="400">
     </a>
-    <div class="desc">League Of Negro FootBallists</div>
+    <div class="desc">Mr. Tooch</div>
   </div>
 </div>
 <div class="clearfix"></div>
@@ -3663,13 +3651,13 @@ div.desc {
   
   <body>
 <h2>2020</h2>
-<h4>THE NEW ERA</h4>
+<h4>THE NEW ERA -- Ten Teams!</h4>
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_5terre.jpg">
       <img src="/awards/champion.png" alt="Cinque Terre" width="600" height="400">
     </a>
-    <div class="desc">Aaron  Hernancuffs</div>
+    <div class="desc">Team Gineros</div>
   </div>
 </div>
 <div class="responsive">
@@ -3677,7 +3665,7 @@ div.desc {
     <a target="_blank" href="img_forest.jpg">
       <img src="/awards/second.png" alt="Forest" width="600" height="400">
     </a>
-    <div class="desc">Michael Sam's Butt Rams</div>
+    <div class="desc">Only Count Legal Points</div>
   </div>
 </div>
 <div class="responsive">
@@ -3685,7 +3673,7 @@ div.desc {
     <a target="_blank" href="img_lights.jpg">
       <img src="/awards/third.png" alt="Northern Lights" width="600" height="400">
     </a>
-    <div class="desc">Cheese Churning Chucker</div>
+    <div class="desc">Darren Waller</div>
   </div>
 </div>
 <div class="responsive">
@@ -3693,13 +3681,10 @@ div.desc {
     <a target="_blank" href="img_mountains.jpg">
       <img src="/awards/toilet.png" alt="Mountains" width="600" height="400">
     </a>
-    <div class="desc">League Of Negro FootBallists</div>
+    <div class="desc">No Barkley No Bite</div>
   </div>
 </div>
 <div class="clearfix"></div>
-<div style="padding:6px;">
-  <p>Back to back champs...the league is rigged.</p>
-</div>
 </body>
   
   
@@ -3712,7 +3697,7 @@ div.desc {
     <a target="_blank" href="img_5terre.jpg">
       <img src="/awards/champion.png" alt="Cinque Terre" width="600" height="400">
     </a>
-    <div class="desc">Aaron  Hernancuffs</div>
+    <div class="desc">Only One Q</div>
   </div>
 </div>
 <div class="responsive">
@@ -3720,7 +3705,7 @@ div.desc {
     <a target="_blank" href="img_forest.jpg">
       <img src="/awards/second.png" alt="Forest" width="600" height="400">
     </a>
-    <div class="desc">Michael Sam's Butt Rams</div>
+    <div class="desc">Henry Given Sunday</div>
   </div>
 </div>
 <div class="responsive">
@@ -3728,7 +3713,7 @@ div.desc {
     <a target="_blank" href="img_lights.jpg">
       <img src="/awards/third.png" alt="Northern Lights" width="600" height="400">
     </a>
-    <div class="desc">Cheese Churning Chucker</div>
+    <div class="desc">2 Girls  1 Kupp</div>
   </div>
 </div>
 <div class="responsive">
@@ -3736,13 +3721,10 @@ div.desc {
     <a target="_blank" href="img_mountains.jpg">
       <img src="/awards/toilet.png" alt="Mountains" width="600" height="400">
     </a>
-    <div class="desc">League Of Negro FootBallists</div>
+    <div class="desc">Mr. Tooch</div>
   </div>
 </div>
 <div class="clearfix"></div>
-<div style="padding:6px;">
-  <p>Back to back champs...the league is rigged.</p>
-</div>
 </body>
   
   
