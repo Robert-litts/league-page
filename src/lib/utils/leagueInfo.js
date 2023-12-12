@@ -3534,7 +3534,7 @@ div.desc {
     <a target="_blank" href="img_5terre.jpg">
       <img src="/awards/champion.png" alt="Cinque Terre" width="600" height="400">
     </a>
-    <div class="desc">Aaron  Hernancuffs</div>
+    <div class="desc">B. Cooks On A'mari Weds</div>
   </div>
 </div>
 <div class="responsive">
@@ -3542,7 +3542,7 @@ div.desc {
     <a target="_blank" href="img_forest.jpg">
       <img src="/awards/second.png" alt="Forest" width="600" height="400">
     </a>
-    <div class="desc">Michael Sam's Butt Rams</div>
+    <div class="desc">Mr. Tooch</div>
   </div>
 </div>
 <div class="responsive">
@@ -3550,7 +3550,7 @@ div.desc {
     <a target="_blank" href="img_lights.jpg">
       <img src="/awards/third.png" alt="Northern Lights" width="600" height="400">
     </a>
-    <div class="desc">Cheese Churning Chucker</div>
+    <div class="desc">The Best, A Fabulous Team</div>
   </div>
 </div>
 <div class="responsive">
@@ -3558,7 +3558,7 @@ div.desc {
     <a target="_blank" href="img_mountains.jpg">
       <img src="/awards/toilet.png" alt="Mountains" width="600" height="400">
     </a>
-    <div class="desc">League Of Negro FootBallists</div>
+    <div class="desc">The Lord Is My Shepard</div>
   </div>
 </div>
 <div class="clearfix"></div>
