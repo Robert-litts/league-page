@@ -1,0 +1,84 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.league-title {
+    margin: 0;
+    font-size: 2em;
+}
+
+.subheader {
+    font-size: 1.5em;
+    color: #666;
+}
+
+.year-links {
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    background-color: #444;
+}
+
+.year-links a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1em;
+    padding: 0.5em 1em;
+    background-color: #555;
+    border-radius: 5px;
+}
+
+.year-links a:hover {
+    background-color: #666;
+}
+
+.year-section {
+    padding: 2em;
+    background-color: #fff;
+    margin: 1em 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-x: auto; /* To handle any overflow gracefully */
+}
+
+.league-table {
+    width: 100%; /* Makes the table take up the full width of its container */
+    max-width: 100%; /* Prevents the table from exceeding the section's width */
+    margin: 0 auto; /* Centers the table within the section */
+    border-collapse: collapse; /* Ensures no gaps between borders */
+}
+.league-table th, .league-table td {
+    padding: 8px 12px;
+    text-align: left; /* Align text to the left */
+    border: 1px solid #ddd; /* Adds borders to cells */
+}
+
+.league-table th {
+    background-color: #333;
+    color: #fff;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Hide sections by default */
+.hidden {
+    display: none;
+}
